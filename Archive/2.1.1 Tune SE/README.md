@@ -1,3 +1,5 @@
+### _This is a copy of the original README file from the Marlin 2.1.1 release._
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
