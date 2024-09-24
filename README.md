@@ -1,3 +1,5 @@
+# I switched to Klipper, so this repository isn't going to be updated anymore.
+
 # Marlin-Ender3Pro-Tuned
 Welcome to my Marlin Repo :D
 
